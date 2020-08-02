@@ -1,0 +1,33 @@
+hm2/hm2_7i92.0:     IO Pin 001 (P2-14): IOPort
+hm2/hm2_7i92.0:     IO Pin 002 (P2-02): StepGen #0, pin Step (Output)
+hm2/hm2_7i92.0:     IO Pin 003 (P2-15): IOPort
+hm2/hm2_7i92.0:     IO Pin 004 (P2-03): StepGen #0, pin Direction (Output)
+hm2/hm2_7i92.0:     IO Pin 005 (P2-16): StepGen #4, pin Step (Output)
+hm2/hm2_7i92.0:     IO Pin 006 (P2-04): StepGen #1, pin Step (Output)
+hm2/hm2_7i92.0:     IO Pin 007 (P2-17): IOPort
+hm2/hm2_7i92.0:     IO Pin 008 (P2-05): StepGen #1, pin Direction (Output)
+hm2/hm2_7i92.0:     IO Pin 009 (P2-06): StepGen #2, pin Step (Output)
+hm2/hm2_7i92.0:     IO Pin 010 (P2-07): StepGen #2, pin Direction (Output)
+hm2/hm2_7i92.0:     IO Pin 011 (P2-08): StepGen #3, pin Step (Output)
+hm2/hm2_7i92.0:     IO Pin 012 (P2-09): StepGen #3, pin Direction (Output)
+hm2/hm2_7i92.0:     IO Pin 013 (P2-10): Encoder #0, pin A (Input)
+hm2/hm2_7i92.0:     IO Pin 014 (P2-11): Encoder #0, pin B (Input)
+hm2/hm2_7i92.0:     IO Pin 015 (P2-12): Encoder #0, pin Index (Input)
+hm2/hm2_7i92.0:     IO Pin 016 (P2-13): IOPort
+hm2/hm2_7i92.0:     IO Pin 017 (P1-01): IOPort
+hm2/hm2_7i92.0:     IO Pin 018 (P1-14): IOPort
+hm2/hm2_7i92.0:     IO Pin 019 (P1-02): IOPort
+hm2/hm2_7i92.0:     IO Pin 020 (P1-15): IOPort
+hm2/hm2_7i92.0:     IO Pin 021 (P1-03): IOPort
+hm2/hm2_7i92.0:     IO Pin 022 (P1-16): IOPort
+hm2/hm2_7i92.0:     IO Pin 023 (P1-04): IOPort
+hm2/hm2_7i92.0:     IO Pin 024 (P1-17): IOPort
+hm2/hm2_7i92.0:     IO Pin 025 (P1-05): IOPort
+hm2/hm2_7i92.0:     IO Pin 026 (P1-06): IOPort
+hm2/hm2_7i92.0:     IO Pin 027 (P1-07): IOPort
+hm2/hm2_7i92.0:     IO Pin 028 (P1-08): IOPort
+hm2/hm2_7i92.0:     IO Pin 029 (P1-09): IOPort
+hm2/hm2_7i92.0:     IO Pin 030 (P1-10): Encoder #1, pin A (Input)
+hm2/hm2_7i92.0:     IO Pin 031 (P1-11): Encoder #1, pin B (Input)
+hm2/hm2_7i92.0:     IO Pin 032 (P1-12): Encoder #1, pin Index (Input)
+hm2/hm2_7i92.0:     IO Pin 033 (P1-13): IOPort

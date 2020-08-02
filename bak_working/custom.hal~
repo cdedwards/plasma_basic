@@ -1,0 +1,25 @@
+# Include your custom HAL commands here
+# This file will not be overwritten when you run PNCconf again
+
+setp hm2_7i92.0.encoder.00.scale -1
+setp hm2_7i92.0.encoder.00.filter 1
+#setp hm2_7i92.0.encoder.00.counter_mode 1
+
+#hm2_7i92.0.encoder.00.velocity
+# scale for THCAD-300 0.00035307 
+# offset 115800.0000
+
+setp [HMOT](CARD0).gpio.017.is_output true
+setp [HMOT](CARD0).gpio.018.is_output true
+setp [HMOT](CARD0).gpio.019.is_output true
+#setp [HMOT](CARD0).gpio.020.is_input true
+setp [HMOT](CARD0).gpio.021.is_output true
+setp [HMOT](CARD0).gpio.022.is_output true
+setp [HMOT](CARD0).gpio.023.is_output true
+setp [HMOT](CARD0).gpio.024.is_output true
+setp [HMOT](CARD0).gpio.025.is_output true
+
+setp [HMOT](CARD0).gpio.030.is_input true
+setp [HMOT](CARD0).gpio.031.is_input true
+setp [HMOT](CARD0).gpio.032.is_input true
+setp [HMOT](CARD0).gpio.033.is_input true
